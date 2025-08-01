@@ -43,5 +43,10 @@
   ```python
   age = int(input("Nhập tuổi: "))
 
+``f-string rất hữu ích để in thông tin có biến:
+`print(f"Tôi tên là {name}, năm nay {age} tuổi.")`
+
+---
+
 ## ✅ Kết luận ngày 1
 Mình đã hoàn thành các bài tập cơ bản với biến và input/output. Hiểu rõ cách sử dụng biến để lưu trữ và xử lý dữ liệu người dùng – bước đầu làm quen với lập trình Python.
