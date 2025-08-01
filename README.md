@@ -19,7 +19,7 @@
 | Ngày 92 | Dự án chuyên sâu – Web Scraping |
 
 <details>
-<summary>📜 Danh sách đầy đủ 92 ngày (bấm để mở rộng)
+<summary>📜 Danh sách đầy đủ 92 ngày (bấm để mở rộng) </summary>
 Day 1 - Working with Variables in Python to Manage Data
 
 Day 2 - Understanding Data Types and How to Manipulate Strings
@@ -204,4 +204,3 @@ Day 91 - Professional Portfolio Project - (Image Processing & Data Science)
 
 Day 92 - Professional Portfolio Project - (Web Scraping)
 
-</summary>
