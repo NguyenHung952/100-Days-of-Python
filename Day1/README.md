@@ -15,7 +15,7 @@
 - Tính số năm còn lại đến tuổi 60
 - In ra thông báo
 
-👉 *File*: `retirement_calc.py`
+👉 *File*: `Day1.ipynb`
 
 ---
 
@@ -24,7 +24,7 @@
 - Dùng tỉ giá cố định 1 USD = 24,000 VND
 - In ra số tiền tương ứng bằng VND
 
-👉 *File*: `currency_converter.py`
+👉 *File*: `Day1.ipynb`
 
 ---
 
@@ -32,7 +32,7 @@
 - Nhập tên, tuổi, ngành học
 - In ra giới thiệu bản thân dạng câu hoàn chỉnh
 
-👉 *File*: `personal_profile.py`
+👉 *File*: `Day1.ipynb`
 
 ---
 
