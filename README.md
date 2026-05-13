@@ -1,206 +1,154 @@
-# 🐍 100 Days of Python – Thử thách 100 ngày với Python
+# 🐍 100 Days of Python
 
-📅 **Ngày bắt đầu**: 01/08/2025  
-📌 **Mục tiêu**: Hoàn thành thử thách 100 ngày code Python liên tục.  
-✍️ **Cam kết**: Mỗi ngày thực hiện 1 bài học hoặc dự án nhỏ, tích lũy kiến thức Python từ cơ bản đến nâng cao.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Challenge-100%20Days-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  <b>Thử thách 100 ngày với Python:</b><br>
+  Bài tập • Mini Project • Ghi chú học tập • Ứng dụng thực tế
+</p>
 
 ---
 
-## 📚 Nội dung tổng quát
+# 📖 Giới thiệu
+
+Đây là repository ghi lại hành trình học và thực hành Python trong vòng **100 ngày**.
 
-| Ngày | Chủ đề |
-|------|--------|
-| Ngày 1 | Làm việc với biến trong Python để quản lý dữ liệu |
-| Ngày 2 | Kiểu dữ liệu và xử lý chuỗi |
-| Ngày 3 | Câu lệnh điều kiện và toán tử logic |
-| Ngày 4 | Thư viện random và danh sách (list) trong Python |
-| Ngày 5 | Vòng lặp trong Python |
-| ... | *(Xem danh sách đầy đủ bên dưới)* |
-| Ngày 92 | Dự án chuyên sâu – Web Scraping |
+Mục tiêu của project:
+
+- Rèn luyện tư duy lập trình
+- Làm quen với Python từ cơ bản đến nâng cao
+- Xây dựng mini project thực tế
+- Cải thiện kỹ năng giải quyết vấn đề
+- Tạo nền tảng cho AI, Automation và Backend
 
-<details>
-<summary>📜 Danh sách đầy đủ 92 ngày (bấm để mở rộng) </summary>
-  
-Day 1 - Working with Variables in Python to Manage Data
+---
 
-Day 2 - Understanding Data Types and How to Manipulate Strings
+# 📂 Cấu trúc thư mục
 
-Day 3 - Control Flow and Logical Operators
+```bash
+100-Days-of-Python/
+│
+├── Day1/
+├── Day2/
+├── Day3/
+├── Day4/
+├── Day5/
+│
+└── README.md
+```
 
-Day 4 - Randomisation and Python Lists
+Mỗi thư mục sẽ bao gồm:
 
-Day 5 - Python Loops
+- Source code
+- Bài tập thực hành
+- Mini project
+- Ghi chú học tập
 
-Day 6 - Python Functions & Karel
+---
 
-Day 7 - Hangman
+# 🛠 Công nghệ sử dụng
 
-Day 8 - Function Parameters & Caesar Cipher
+| Công nghệ | Mô tả |
+|---|---|
+| Python 3 | Ngôn ngữ lập trình chính |
+| VS Code | Môi trường phát triển |
+| Git & GitHub | Quản lý source code |
+| Terminal | Chạy chương trình |
 
-Day 9 - Dictionaries, Nesting and the Secret Auction
+---
 
-Day 10 - Function Return Values and the Calculator Project
+# 🎯 Nội dung học tập
 
-Day 11 - Blackjack Capstone Project
+## 📌 Python Basics
+- Variables
+- Data Types
+- Input / Output
+- Operators
+- Conditions
+- Loops
+- Functions
 
-Day 12 - Scope and Namespacing in Python
+## 📌 Intermediate Python
+- List / Tuple / Dictionary
+- File Handling
+- Exception Handling
+- Modules & Packages
+- OOP
 
-Day 13 - Debugging: How to Find and Fix Errors in your Code
+## 📌 Advanced Topics
+- Automation
+- APIs
+- Web Scraping
+- GUI
+- Data Processing
+- Mini AI Tools
 
-Day 14 - Higher Lower Game Project
+---
 
-Day 15 - Local Development Environment Setup & the Coffee Machine
+# 🚀 Mục tiêu sau 100 ngày
 
-Day 16 - Object Oriented Programming (OOP)
+- Viết được ứng dụng Python hoàn chỉnh
+- Tự động hóa các tác vụ cơ bản
+- Đọc hiểu và chỉnh sửa source code
+- Có nền tảng học AI / Machine Learning
+- Xây dựng portfolio cá nhân trên GitHub
 
-Day 17 - The Quiz Project & the Benefits of OOP
+---
 
-Day 18 - Turtle & the Graphical User Interface (GUI)
+# 📅 Progress
 
-Day 19 - Instances, State and Higher Order Functions
+| Day | Nội dung | Trạng thái |
+|---|---|---|
+| Day 1 | Python Basics | ✅ |
+| Day 2 | Variables & Input | ✅ |
+| Day 3 | Conditions | ✅ |
+| Day 4 | Loops | ✅ |
+| Day 5 | Functions | ✅ |
 
-Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+---
 
-Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+# ▶️ Cách chạy project
 
-Day 22 - Build Pong: The Famous Arcade Game
+### Clone repository
 
-Day 23 - The Turtle Crossing Capstone Project
+```bash
+git clone https://github.com/your-username/100-Days-of-Python.git
+```
 
-Day 24 - Files, Directories and Paths
+### Chạy file Python
 
-Day 25 - Working with CSV Data and the Pandas Library
+```bash
+python filename.py
+```
 
-Day 26 - List Comprehension and the NATO Alphabet
+---
 
-Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
+# 📚 Tài liệu tham khảo
 
-Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- Python Official Documentation  
+- W3Schools Python  
+- FreeCodeCamp  
+- YouTube Python Tutorials
 
-Day 29 - Building a Password Manager GUI App with Tkinter
+---
 
-Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
+# 👨‍💻 Author
 
-Day 31 - Flash Card App Capstone Project
+**Nguyễn Ngọc Hùng**  
+Sinh viên Điện tử Viễn thông – IUH
 
-Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+---
 
-Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
+# ⭐ Support
 
-Day 34 - API Practice - Creating a GUI Quiz App
+Nếu repository hữu ích, hãy để lại một ⭐ để ủng hộ project.
 
-Day 35 - Keys, Authentication & Environment Variables: Send SMS
+---
 
-Day 36 - Stock Trading News Alert Project
-
-Day 37 - Habit Tracking Project: API Post Requests & Headers
-
-Day 38 - Workout Tracking Using Google Sheets
-
-Day 39 - Capstone Part 1: Flight Deal Finder
-
-Day 40 - Capstone Part 2: Flight Club
-
-Day 41 - Introduction to HTML
-
-Day 42 - Intermediate HTML
-
-Day 43 - Introduction to CSS
-
-Day 44 - Intermediate CSS
-
-Day 45 - Web Scraping with Beautiful Soup
-
-Day 46 - Create a Spotify Playlist using the Musical Time Machine
-
-Day 47 - Create an Automated Amazon Price Tracker
-
-Day 48 - Selenium Webdriver Browser and Game Playing Bot
-
-Day 49 - Automating Job Applications on LinkedIn
-
-Day 50 - Auto Tinder Swiping Bot
-
-Day 51 - Internet Speed Twitter Complaint Bot
-
-Day 52 - Instagram Follower Bot
-
-Day 53 - Data Entry Job Automation
-
-Day 54 - Introduction to Web Development with Flask
-
-Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
-
-Day 56 - Rendering HTML/Static files and Using Website Templates
-
-Day 57 - Templating with Jinja in Flask Applications
-
-Day 58 - Bootstrap
-
-Day 59 - Blog Capstone Project Part 2 - Adding Styling
-
-Day 60 - POST Requests with Flask and HTML Forms
-
-Day 61 - Building Advanced Forms with Flask-WTForms
-
-Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
-
-Day 63 - Databases and with SQLite and SQLAlchemy
-
-Day 64 - My Top 10 Movies Website
-
-Day 65 - How to Create a Website that People will Love
-
-Day 66 - Building Your Own API with RESTful Routing
-
-Day 67 - Blog Capstone Project Part 3 - RESTful Routing
-
-Day 68 - Authentication with Flask
-
-Day 69 - Blog Capstone Project Part 4 - Adding Users
-
-Day 70 - Deploying Your Web Application with Digital Ocean
-
-Day 71 - Data Exploration with Pandas: College Major v.s. Your Salary
-
-Day 72 - Data Visualisation with Matplotlib: Programming Languages
-
-Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
-
-Day 74 - Google Trends Data: Resampling and Visualising Time Series
-
-Day 75 - Beautiful Plotly Charts & Analysing the Android App Store
-
-Day 76 - Computation with NumPy and N-Dimensional Arrays
-
-Day 77 - Linear Regression and Data Visualisation with Seaborn
-
-Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-
-Day 79 - The Tragic Discovery of Handwashing: t-Tests & Distributions
-
-Day 80 - Capstone Project - Predict House Prices
-
-Day 81 - Professional Portfolio Project - (Python Scripting)
-
-Day 82 - Professional Portfolio Project - (Python Web Development)
-
-Day 83 - Professional Portfolio Project - (Python Scripting)
-
-Day 84 - Professional Portfolio Project - (GUI)
-
-Day 85 - Professional Portfolio Project - (GUI)
-
-Day 86 - Professional Portfolio Project - (Game)
-
-Day 87 - Professional Portfolio Project - (Web Development)
-
-Day 88 - Professional Portfolio Project - (Web Development)
-
-Day 89 - Professional Portfolio Project - (GUI Desktop App)
-
-Day 90 - Professional Portfolio Project - (HTTP Requests & APIs)
-
-Day 91 - Professional Portfolio Project - (Image Processing & Data Science)
-
-Day 92 - Professional Portfolio Project - (Web Scraping)
+<p align="center">
+  Made with ❤️ using Python
+</p>
