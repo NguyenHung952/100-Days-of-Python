@@ -99,17 +99,153 @@ Mỗi thư mục sẽ bao gồm:
 
 ---
 
-# 📅 Progress
+# 🧠 Danh sách Mini Project & Challenge
 
-| Day | Nội dung | Trạng thái |
-|---|---|---|
-| Day 1 | Python Basics | ✅ |
-| Day 2 | Variables & Input | ✅ |
-| Day 3 | Conditions | ✅ |
-| Day 4 | Loops | ✅ |
-| Day 5 | Functions | ✅ |
+## ⚡ Điện tử cơ bản & Mạch điện
+- Máy tính điện trở màu
+- Tính toán tụ điện RC
+- Mô phỏng mạch RC bằng Python
+- Mô phỏng mạch RLC cơ bản
+- Vẽ đồ thị tín hiệu sin/cos
+- Bộ tạo sóng PWM giả lập
+- Máy tính định luật Ohm
+- Công cụ đổi đơn vị điện tử
 
 ---
+
+## 📡 DSP & Xử lý tín hiệu
+- Bộ phân tích tín hiệu bằng FFT
+- Hiển thị phổ tần số âm thanh
+- Bộ lọc số FIR đơn giản
+- Bộ lọc số IIR đơn giản
+- Mô phỏng lấy mẫu ADC
+- Mô phỏng DAC bằng đồ thị
+- Phân tích nhiễu tín hiệu
+- Tạo oscilloscope mini bằng Python
+
+---
+
+## 🌐 IoT & Embedded Systems
+- Giao tiếp Serial với Arduino
+- Đọc dữ liệu cảm biến từ ESP32
+- Dashboard nhiệt độ thời gian thực
+- Hệ thống cảnh báo gas IoT
+- Giám sát độ ẩm đất thông minh
+- Smart home điều khiển relay
+- MQTT chat giữa 2 thiết bị
+- Gửi dữ liệu lên ThingSpeak
+- Điều khiển LED qua Web
+- Web server cho ESP32
+- Giao tiếp I2C bằng Python
+- Giao tiếp SPI mô phỏng
+- Đọc RFID bằng Python
+
+---
+
+## 🎥 Computer Vision & AI
+- Nhận diện QR code camera
+- Hệ thống điểm danh bằng QR
+- Điều khiển servo bằng GUI
+- Theo dõi CPU Raspberry Pi
+- Camera streaming bằng OpenCV
+- Phát hiện chuyển động camera
+- Đếm người bằng computer vision
+- Nhận diện biển số xe cơ bản
+- Smart parking simulation
+- AI nhận diện khuôn mặt cơ bản
+- Hệ thống mở cửa bằng face ID
+
+---
+
+## 🎙 AI Voice & Chatbot
+- Voice assistant mini tiếng Việt
+- Điều khiển thiết bị bằng giọng nói
+- Text-to-speech bằng Python
+- Speech-to-text tiếng Việt
+- Chatbot kỹ thuật điện tử
+
+---
+
+## 📚 Giáo dục & Học tập
+- Tự động chấm trắc nghiệm
+- Sinh đề quiz điện tử
+- Flashcard học tín hiệu số
+- App học mã nhị phân
+- Bộ chuyển đổi ASCII ↔ Binary
+- Bộ mã hóa Hamming code
+- Mô phỏng CRC checksum
+
+---
+
+## 🌍 Mạng máy tính & Truyền thông
+- Mô phỏng truyền dữ liệu UART
+- Mô phỏng TCP/IP cơ bản
+- Packet sniffer mini
+- Network scanner nội bộ
+- Ping monitor tool
+- Kiểm tra tốc độ mạng
+- WiFi analyzer đơn giản
+- Log analyzer cho hệ thống mạng
+
+---
+
+## 🔐 Bảo mật & An toàn dữ liệu
+- Mã hóa dữ liệu bằng AES
+- Sinh password mạnh
+- File encrypt/decrypt tool
+- Phát hiện brute-force log
+- Hệ thống xác thực OTP
+- Mini firewall simulation
+
+---
+
+## 🗂 Automation & Productivity
+- Tự động backup dữ liệu
+- Tổ chức file tự động
+- Rename file hàng loạt
+- PDF merger/splitter
+- OCR đọc văn bản từ ảnh
+- Tóm tắt PDF bằng AI
+- Chuyển giọng nói thành note
+
+---
+
+## 🎓 Sinh viên & Quản lý cá nhân
+- Dashboard quản lý học tập
+- App quản lý deadline sinh viên
+- Theo dõi chi tiêu sinh viên
+- AI phân loại giao dịch ngân hàng
+- Tool tạo CV tự động
+- Resume parser bằng Python
+
+---
+
+## 🔍 Điện tử & Công cụ kỹ thuật
+- Web scraping giá linh kiện điện tử
+- Theo dõi giá IC/sensor online
+- Công cụ tra datasheet linh kiện
+- Bộ quản lý kho linh kiện
+- BOM generator cho project điện tử
+- Schematic viewer mini
+
+---
+
+## ⚙ FPGA, HDL & Digital Design
+- Tạo waveform cho Verilog testbench
+- Sinh test vector tự động HDL
+- Mô phỏng FSM bằng Python
+- Visualizer thuật toán số
+
+---
+
+## 📶 Viễn thông & DSP nâng cao
+- Giải bài toán DSP bằng Python
+- Phân tích BER trong truyền thông số
+- Mô phỏng điều chế ASK/FSK/PSK
+- Mô phỏng OFDM cơ bản
+- Phân tích tín hiệu WiFi SDR
+- Xây dựng digital twin cho hệ IoT
+- Hệ thống giám sát điện năng tiêu thụ
 
 # ▶️ Cách chạy project
 
